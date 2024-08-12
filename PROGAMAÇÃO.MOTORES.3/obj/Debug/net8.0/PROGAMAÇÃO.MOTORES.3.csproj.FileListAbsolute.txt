@@ -1,0 +1,14 @@
+D:\Users\20241170150002\Desktop\PROGAMAÇÃO.MOTORES.3\bin\Debug\net8.0\PROGAMAÇÃO.MOTORES.3.exe
+D:\Users\20241170150002\Desktop\PROGAMAÇÃO.MOTORES.3\bin\Debug\net8.0\PROGAMAÇÃO.MOTORES.3.deps.json
+D:\Users\20241170150002\Desktop\PROGAMAÇÃO.MOTORES.3\bin\Debug\net8.0\PROGAMAÇÃO.MOTORES.3.runtimeconfig.json
+D:\Users\20241170150002\Desktop\PROGAMAÇÃO.MOTORES.3\bin\Debug\net8.0\PROGAMAÇÃO.MOTORES.3.dll
+D:\Users\20241170150002\Desktop\PROGAMAÇÃO.MOTORES.3\bin\Debug\net8.0\PROGAMAÇÃO.MOTORES.3.pdb
+D:\Users\20241170150002\Desktop\PROGAMAÇÃO.MOTORES.3\obj\Debug\net8.0\PROGAMAÇÃO.MOTORES.3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20241170150002\Desktop\PROGAMAÇÃO.MOTORES.3\obj\Debug\net8.0\PROGAMAÇÃO.MOTORES.3.AssemblyInfoInputs.cache
+D:\Users\20241170150002\Desktop\PROGAMAÇÃO.MOTORES.3\obj\Debug\net8.0\PROGAMAÇÃO.MOTORES.3.AssemblyInfo.cs
+D:\Users\20241170150002\Desktop\PROGAMAÇÃO.MOTORES.3\obj\Debug\net8.0\PROGAMAÇÃO.MOTORES.3.csproj.CoreCompileInputs.cache
+D:\Users\20241170150002\Desktop\PROGAMAÇÃO.MOTORES.3\obj\Debug\net8.0\PROGAMAÇÃO.MOTORES.3.dll
+D:\Users\20241170150002\Desktop\PROGAMAÇÃO.MOTORES.3\obj\Debug\net8.0\refint\PROGAMAÇÃO.MOTORES.3.dll
+D:\Users\20241170150002\Desktop\PROGAMAÇÃO.MOTORES.3\obj\Debug\net8.0\PROGAMAÇÃO.MOTORES.3.pdb
+D:\Users\20241170150002\Desktop\PROGAMAÇÃO.MOTORES.3\obj\Debug\net8.0\PROGAMAÇÃO.MOTORES.3.genruntimeconfig.cache
+D:\Users\20241170150002\Desktop\PROGAMAÇÃO.MOTORES.3\obj\Debug\net8.0\ref\PROGAMAÇÃO.MOTORES.3.dll

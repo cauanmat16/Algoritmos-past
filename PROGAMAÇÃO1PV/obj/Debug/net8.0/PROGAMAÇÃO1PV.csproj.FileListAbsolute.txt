@@ -1,0 +1,14 @@
+D:\Users\20241170150002\Desktop\PROGAMAÇÃO1PV\bin\Debug\net8.0\PROGAMAÇÃO1PV.exe
+D:\Users\20241170150002\Desktop\PROGAMAÇÃO1PV\bin\Debug\net8.0\PROGAMAÇÃO1PV.deps.json
+D:\Users\20241170150002\Desktop\PROGAMAÇÃO1PV\bin\Debug\net8.0\PROGAMAÇÃO1PV.runtimeconfig.json
+D:\Users\20241170150002\Desktop\PROGAMAÇÃO1PV\bin\Debug\net8.0\PROGAMAÇÃO1PV.dll
+D:\Users\20241170150002\Desktop\PROGAMAÇÃO1PV\bin\Debug\net8.0\PROGAMAÇÃO1PV.pdb
+D:\Users\20241170150002\Desktop\PROGAMAÇÃO1PV\obj\Debug\net8.0\PROGAMAÇÃO1PV.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20241170150002\Desktop\PROGAMAÇÃO1PV\obj\Debug\net8.0\PROGAMAÇÃO1PV.AssemblyInfoInputs.cache
+D:\Users\20241170150002\Desktop\PROGAMAÇÃO1PV\obj\Debug\net8.0\PROGAMAÇÃO1PV.AssemblyInfo.cs
+D:\Users\20241170150002\Desktop\PROGAMAÇÃO1PV\obj\Debug\net8.0\PROGAMAÇÃO1PV.csproj.CoreCompileInputs.cache
+D:\Users\20241170150002\Desktop\PROGAMAÇÃO1PV\obj\Debug\net8.0\PROGAMAÇÃO1PV.dll
+D:\Users\20241170150002\Desktop\PROGAMAÇÃO1PV\obj\Debug\net8.0\refint\PROGAMAÇÃO1PV.dll
+D:\Users\20241170150002\Desktop\PROGAMAÇÃO1PV\obj\Debug\net8.0\PROGAMAÇÃO1PV.pdb
+D:\Users\20241170150002\Desktop\PROGAMAÇÃO1PV\obj\Debug\net8.0\PROGAMAÇÃO1PV.genruntimeconfig.cache
+D:\Users\20241170150002\Desktop\PROGAMAÇÃO1PV\obj\Debug\net8.0\ref\PROGAMAÇÃO1PV.dll
